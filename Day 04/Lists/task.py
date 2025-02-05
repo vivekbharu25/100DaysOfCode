@@ -1,0 +1,1 @@
+states_of_India = ["Telangana", "Andhra Pradesh", "Tamil Nadu", "Karnataka", "Kerala", "Maharastra", "Madhya Pradesh", "Odisha", "Goa", "Jharkand", ""]
